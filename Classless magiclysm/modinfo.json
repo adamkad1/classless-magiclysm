@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Noclassmagic",
+    "name": "Classless magiclysm",
+    "authors": [ "adamkad1"],
+    "maintainers": [ "adamkad1" ],
+    "description": "No classes on yo magic!",
+    "category": "content",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
